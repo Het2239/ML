@@ -63,4 +63,4 @@ For the degree 10 Ridge model, the coefficient magnitudes are evenly distributed
 ## 4. Deliverables Summary
 - **Report:** This document.
 - **Predictions:** `BT2024052_pred_var1.csv` and `BT2024052_pred_var2.csv` containing 1000 rows each.
-- **Codebase:** A complete, reproducible GitHub repository is provided, containing the data loaders, customized GPU FISTA Lasso solver, exact Ridge path solver, and training/inference scripts.
+- **Codebase:** A complete, reproducible GitHub repository is provided at [https://github.com/Het2239/ML](https://github.com/Het2239/ML), containing the data loaders, customized GPU FISTA Lasso solver, exact Ridge path solver, and training/inference scripts.
